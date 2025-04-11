@@ -1,4 +1,3 @@
-#ifndef AE_VERTEXBUFFER_HPP
 #define AE_VERTEXBUFFER_HPP
 
 #pragma once
@@ -10,4 +9,10 @@
 #include <AERMOSS/Util/AEConstants.hpp>
 
 AE_NAMESPACE_BEGIN(AERMOSS)
+     AE_CLASS_BEGIN(AEVertexBuffer)
 
+
+
+AE_NAMESPACE_END()
+
+#endif

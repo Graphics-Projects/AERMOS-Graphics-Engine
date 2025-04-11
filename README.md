@@ -28,7 +28,7 @@
   Basic collision detection and physics simulation with custom colliders and rigidbodies.
 
 - 📐 **Math & Utility Libraries**  
-  Custom math library (or GLM-based) with logging, timing, and utility helpers.
+  Custom math library with logging, timing, and utility helpers.
 
 ---
 

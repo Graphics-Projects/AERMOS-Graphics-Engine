@@ -34,16 +34,16 @@
 
 ## 🗂️ Directory Structure
 
-|----bin/ #lib files
-|----include/
-|----|----GLFW
-|----|----glad
-|----|----KHR
-|----|----entt
-|----|----imgui 
-|----|----KHR
-|----|----nholmann
-|----|----AERMOSS  #where all of the codes are
+<sub>|----bin/ #lib files</sub>
+<sub>|----include/</sub>
+<sub>|----|----GLFW</sub>
+<sub>|----|----glad</sub>
+<sub>|----|----KHR</sub>
+<sub>|----|----entt</sub>
+<sub>|----|----imgui</sub>
+<sub>|----|----KHR</sub>
+<sub>|----|----nholmann</sub>
+<sub>|----|----AERMOSS  #where all of the codes are</sub>
 
 
 ---

@@ -34,3 +34,21 @@
 
 ## 🗂️ Directory Structure
 
+
+---
+
+## 🛠️ Getting Started
+
+### ✅ Prerequisites
+
+- **C++17** or higher
+- **CMake 3.15+**
+- **Git**
+- **OpenGL 4.5+ compatible GPU and drivers**
+
+### 📦 Clone the Repository
+
+```bash
+git clone --recursive https://github.com/yourusername/AERMOSS.git
+cd AERMOSS
+

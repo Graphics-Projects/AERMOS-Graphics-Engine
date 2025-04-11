@@ -34,6 +34,17 @@
 
 ## 🗂️ Directory Structure
 
+|----bin/ #lib files
+|----include/
+|----|----GLFW
+|----|----glad
+|----|----KHR
+|----|----entt
+|----|----imgui 
+|----|----KHR
+|----|----nholmann
+|----|----AERMOSS  #where all of the codes are
+
 
 ---
 

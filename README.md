@@ -47,6 +47,6 @@
 ### 📦 Clone the Repository
 
 ```bash
-git clone --recursive https://github.com/yourusername/AERMOSS.git
+git clone --recursive https://github.com/Graphics-Projects/AERMOSS.git
 cd AERMOSS
 
